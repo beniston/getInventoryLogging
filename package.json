@@ -1,0 +1,11 @@
+{
+  "name": "inventory_logging_ms",
+  "version": "1.0.0",
+  "description": "Log the inventory details from web hooks and get inventory micro service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "B",
+  "license": "ISC"
+}
