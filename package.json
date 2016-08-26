@@ -7,5 +7,13 @@
     "test": "test"
   },
   "author": "B",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "pg": "^6.1.0",
+    "seneca": "^2.1.0",
+    "sequelize": "^3.24.1",
+    "pg-native" : "^1.10.0"
+  }
 }
