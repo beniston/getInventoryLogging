@@ -1,4 +1,4 @@
 'use strict'
-var log={}
+var log = {}
 log.info = console.log
 module.exports = log
